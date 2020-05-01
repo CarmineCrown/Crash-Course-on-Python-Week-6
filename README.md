@@ -5,3 +5,5 @@ In the final assignment of the course, we are tasked to create a Word Cloud base
 The pg6702.txt file is the text file used for this assignment.
 
 You can find and join the course [here](https://www.coursera.org/learn/python-crash-course).
+
+I am editing the README file. Adding some more details about the project description.
